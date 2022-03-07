@@ -1,5 +1,5 @@
 # VFD
-This is the release code for CVPR2022 paper "Voice-Face Homogeneity Tells Deepfake".
+This is the release code for CVPR2022 paper ["Voice-Face Homogeneity Tells Deepfake"](https://arxiv.org/abs/2203.02195).
 
 Part of the framework is borrowed from
 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
